@@ -1,0 +1,69 @@
+
+.logo img
+{
+    width: 80px;
+    height: 80px;
+    border: 2px solid green;
+    display: block;
+    margin: auto;
+}
+h2
+{
+    text-align: center;
+    margin-top: 12px;
+}
+.container
+{
+    border: 2px solid rgb(85, 192, 85);
+    max-width: 74%;
+    height: 400px;
+    margin: auto;
+    background-color: blanchedalmond;
+    overflow-y: scroll;
+}
+ .box
+{
+    background-color: rosybrown;
+    width: 30%;
+    padding: 12px;
+    margin: 12px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+.right
+{
+    float: right;
+    clear: both;
+}
+.left
+{
+    float: left;
+    clear: both;
+}
+#sendcon
+{
+    width: 76%;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+.btn
+{
+    cursor: pointer;
+}
+#content
+{
+    width: 75%;
+    border: 2px solid black;
+}
+body
+{
+    height: 100%;
+    background-image: linear-gradient(rgb(238, 222, 222),rgb(85, 192, 85));
+}
+.logo h2
+{
+    text-shadow: 6px 6px 6px rgb(37, 190, 37);
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
